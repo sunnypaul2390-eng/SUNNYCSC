@@ -1,0 +1,60 @@
+body {
+  font-family: Arial;
+  background: #f4f6f9;
+  margin: 0;
+  text-align: center;
+}
+
+.login-box {
+  width: 320px;
+  margin: 120px auto;
+  padding: 25px;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 10px;
+}
+
+input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.top-bar {
+  background: #007bff;
+  color: white;
+  padding: 15px;
+}
+
+table {
+  width: 85%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background: white;
+}
+
+th {
+  background: #007bff;
+  color: white;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #ddd;
+}
